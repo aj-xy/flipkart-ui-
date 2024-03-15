@@ -158,7 +158,7 @@ class _FlipkaState extends State<Flipka> {
                       "Recommendeed Items",
                       style: TextStyle(fontSize: 20),
                     ),
-                    SizedBox(width: 150,),
+                    SizedBox(width: 160,),
                     Container(decoration: BoxDecoration(shape: BoxShape.circle,color: Colors.blue),
                       child:Icon(Icons.arrow_forward_ios_rounded,color: Colors.white,),
                      )
